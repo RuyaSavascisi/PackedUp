@@ -14,18 +14,10 @@
       "CCC"
     ],
     "key": {
-      "A": {
-        "tag": "forge:rods/wooden"
-      },
-      "B": {
-        "tag": "forge:string"
-      },
-      "C": {
-        "tag": "forge:leather"
-      },
-      "D": {
-        "tag": "forge:chests/wooden"
-      }
+      "A": "#c:rods/wooden",
+      "B": "#c:strings",
+      "C": "#c:leathers",
+      "D": "#c:chests/wooden"
     },
     "result": {
       "id": "packedup:basicbackpack"

@@ -23,7 +23,7 @@
           },
           {
             "registry": "minecraft:item",
-            "tag": "forge:ingots/copper",
+            "tag": "c:ingots/copper",
             "type": "supermartijn642corelib:tag_populated"
           }
         ],
@@ -88,7 +88,7 @@
       "conditions": {
         "items": [
           {
-            "items": "#forge:chests/wooden"
+            "items": "#c:chests/wooden"
           }
         ]
       }

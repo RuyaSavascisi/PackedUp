@@ -21,7 +21,7 @@
           },
           {
             "registry": "minecraft:item",
-            "tag": "forge:ingots/copper",
+            "tag": "c:ingots/copper",
             "type": "supermartijn642corelib:tag_populated"
           }
         ],
@@ -73,15 +73,9 @@
       "AAA"
     ],
     "key": {
-      "A": {
-        "tag": "forge:obsidian"
-      },
-      "B": {
-        "tag": "forge:leather"
-      },
-      "C": {
-        "item": "packedup:basicbackpack"
-      }
+      "A": "#c:obsidians",
+      "B": "#c:leathers",
+      "C": "packedup:basicbackpack"
     },
     "result": {
       "id": "packedup:obsidianbackpack"

@@ -21,18 +21,10 @@
       "CCC"
     ],
     "key": {
-      "A": {
-        "tag": "forge:leather"
-      },
-      "B": {
-        "tag": "forge:string"
-      },
-      "C": {
-        "tag": "forge:ingots/iron"
-      },
-      "D": {
-        "tag": "forge:chests/wooden"
-      }
+      "A": "#c:leathers",
+      "B": "#c:strings",
+      "C": "#c:ingots/iron",
+      "D": "#c:chests/wooden"
     },
     "result": {
       "id": "packedup:ironbackpack"

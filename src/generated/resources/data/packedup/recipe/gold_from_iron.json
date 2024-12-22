@@ -18,15 +18,9 @@
       "AAA"
     ],
     "key": {
-      "A": {
-        "tag": "forge:ingots/gold"
-      },
-      "B": {
-        "tag": "forge:ingots/iron"
-      },
-      "C": {
-        "item": "packedup:ironbackpack"
-      }
+      "A": "#c:ingots/gold",
+      "B": "#c:ingots/iron",
+      "C": "packedup:ironbackpack"
     },
     "result": {
       "id": "packedup:goldbackpack"

@@ -9,7 +9,7 @@
         },
         {
           "registry": "minecraft:item",
-          "tag": "forge:ingots/copper",
+          "tag": "c:ingots/copper",
           "type": "supermartijn642corelib:tag_populated"
         }
       ],
@@ -59,15 +59,9 @@
       "AAA"
     ],
     "key": {
-      "A": {
-        "tag": "forge:obsidian"
-      },
-      "B": {
-        "tag": "forge:ingots/copper"
-      },
-      "C": {
-        "item": "packedup:copperbackpack"
-      }
+      "A": "#c:obsidians",
+      "B": "#c:ingots/copper",
+      "C": "packedup:copperbackpack"
     },
     "result": {
       "id": "packedup:obsidianbackpack"
