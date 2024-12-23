@@ -123,6 +123,7 @@ public class PackedUp {
         GeneratorRegistrationHandler handler = GeneratorRegistrationHandler.get("packedup");
         // Register all the generators
         handler.addGenerator(PackedUpAdvancementGenerator::new);
+        handler.addGenerator(PackedUpItemInfoGenerator::new);
         handler.addGenerator(PackedUpLanguageGenerator::new);
         handler.addGenerator(PackedUpModelGenerator::new);
         handler.addGenerator(PackedUpRecipeGenerator::new);
